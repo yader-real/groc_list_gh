@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/groc_list_gh/static/css/main.0fb563a1.css",
+    "main.js": "/groc_list_gh/static/js/main.3279e6fe.js",
+    "index.html": "/groc_list_gh/index.html",
+    "main.0fb563a1.css.map": "/groc_list_gh/static/css/main.0fb563a1.css.map",
+    "main.3279e6fe.js.map": "/groc_list_gh/static/js/main.3279e6fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fb563a1.css",
+    "static/js/main.3279e6fe.js"
+  ]
+}
